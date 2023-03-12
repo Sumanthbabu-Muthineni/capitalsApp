@@ -1,0 +1,20 @@
+.bg-Container {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bg-container2 {
+  background-color: #ffffff;
+  width: 45vw;
+  height: 45vh;
+  padding: 15px;
+  text-align: left;
+  border-radius: 15px;
+}
+.bg-container3 {
+  display: flex;
+}
